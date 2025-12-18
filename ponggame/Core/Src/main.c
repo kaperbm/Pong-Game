@@ -4,6 +4,7 @@
   * @file           : main.c
   * @brief          : Main program body
   * @author			: Stefan & Kacper
+  *test
   ******************************************************************************
   * @attention
   *
